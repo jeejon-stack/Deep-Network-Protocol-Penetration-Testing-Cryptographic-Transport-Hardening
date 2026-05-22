@@ -83,7 +83,7 @@ TSHARK ANALYSIS:
 Frame 4:  GET request sent
 Frame 8:  200 OK returned   ← Legacy: attack succeeded
 Frame 16: GET request sent
-Frame 18: 403 returned      ← PQC: attack blocked
+Frame 18: 403 returned     ← PQC: attack blocked
 
 ML-KEM-768 KEY EXCHANGE:
 Server public key: 1184 bytes
