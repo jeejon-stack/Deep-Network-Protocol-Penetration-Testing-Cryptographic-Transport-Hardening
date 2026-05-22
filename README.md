@@ -325,6 +325,9 @@ print('TUNNEL:', 'ESTABLISHED' if s1==s2 else 'FAILED')
 
 **Together:** Complete quantum-safe security at both application and network layers.
 
+## Report Doc
+https://docs.google.com/document/d/10TzLwbaIVUYLD4lsGV8jM0yathnFO8gfeXSUQf5QmMI/edit?tab=t.0
+
 ---
 
 ## Author
